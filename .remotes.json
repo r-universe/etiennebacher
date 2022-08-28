@@ -1,11 +1,5 @@
 [
   {
-    "package": "altdoc",
-    "url": "https://github.com/etiennebacher/altdoc",
-    "via": ["conductor"],
-    "from": "conductor"
-  },
-  {
     "package": "tinytest",
     "url": "https://github.com/markvanderloo/tinytest",
     "via": ["tidypolars"],
