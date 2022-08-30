@@ -1,5 +1,9 @@
 [
   {
+    "package": "altdoc",
+    "oncran": true
+  },
+  {
     "package": "circletyper",
     "oncran": true
   },
