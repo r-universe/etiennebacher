@@ -1,17 +1,5 @@
 [
   {
-    "package": "conductor",
-    "oncran": true
-  },
-  {
-    "package": "spoiler",
-    "oncran": true
-  },
-  {
-    "package": "prompter",
-    "oncran": true
-  },
-  {
     "package": "altdoc",
     "oncran": true
   },
@@ -20,7 +8,19 @@
     "oncran": true
   },
   {
+    "package": "conductor",
+    "oncran": true
+  },
+  {
+    "package": "prompter",
+    "oncran": true
+  },
+  {
     "package": "shinyfullscreen",
+    "oncran": true
+  },
+  {
+    "package": "spoiler",
     "oncran": true
   }
 ]

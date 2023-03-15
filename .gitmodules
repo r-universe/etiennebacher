@@ -3,21 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "conductor"]
-	path = conductor
-	url = https://github.com/etiennebacher/conductor
-	shallow = true
-	registered = true
-[submodule "spoiler"]
-	path = spoiler
-	url = https://github.com/etiennebacher/spoiler
-	shallow = true
-	registered = true
-[submodule "prompter"]
-	path = prompter
-	url = https://github.com/etiennebacher/prompter
-	shallow = true
-	registered = true
 [submodule "altdoc"]
 	path = altdoc
 	url = https://github.com/etiennebacher/altdoc
@@ -28,8 +13,23 @@
 	url = https://github.com/etiennebacher/circletyper
 	shallow = true
 	registered = true
+[submodule "conductor"]
+	path = conductor
+	url = https://github.com/etiennebacher/conductor
+	shallow = true
+	registered = true
+[submodule "prompter"]
+	path = prompter
+	url = https://github.com/etiennebacher/prompter
+	shallow = true
+	registered = true
 [submodule "shinyfullscreen"]
 	path = shinyfullscreen
 	url = https://github.com/etiennebacher/shinyfullscreen
+	shallow = true
+	registered = true
+[submodule "spoiler"]
+	path = spoiler
+	url = https://github.com/etiennebacher/spoiler
 	shallow = true
 	registered = true
