@@ -1,0 +1,10 @@
+{
+  "id": 40259967,
+  "created_at": "2023-08-01T09:04:39.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["altdoc", "conductor", "prompter", "shinyfullscreen", "tidypolars"]
+}
