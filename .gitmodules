@@ -8,10 +8,6 @@
 [submodule "conductor"]
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
-[submodule "polars"]
-	path = polars
-	url = https://github.com/pola-rs/r-polars
-	registered = false
 [submodule "prompter"]
 	path = prompter
 	url = https://github.com/etiennebacher/prompter

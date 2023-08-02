@@ -1,8 +1,0 @@
-[
-  {
-    "package": "polars",
-    "url": "https://github.com/pola-rs/r-polars",
-    "via": ["tidypolars"],
-    "from": "tidypolars"
-  }
-]
