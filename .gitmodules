@@ -20,3 +20,8 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
+[submodule "tinytest"]
+	path = tinytest
+	url = https://github.com/markvanderloo/tinytest
+	subdir = pkg
+	registered = false

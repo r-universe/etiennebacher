@@ -1,0 +1,9 @@
+[
+  {
+    "package": "tinytest",
+    "url": "https://github.com/markvanderloo/tinytest",
+    "via": ["tidypolars"],
+    "subdir": "pkg",
+    "from": "tidypolars"
+  }
+]
