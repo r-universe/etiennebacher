@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["altdoc", "conductor", "prompter", "shinyfullscreen", "tidypolars"]
+  "repositories": ["shinyfullscreen", "prompter", "altdoc", "conductor", "tidypolars"]
 }
