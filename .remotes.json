@@ -1,11 +1,5 @@
 [
   {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["polars"],
-    "from": "polars"
-  },
-  {
     "package": "tinytest",
     "url": "https://github.com/markvanderloo/tinytest",
     "via": ["tidypolars"],
