@@ -11,6 +11,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
+	branch = *release
 [submodule "prompter"]
 	path = prompter
 	url = https://github.com/etiennebacher/prompter
