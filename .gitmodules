@@ -5,11 +5,11 @@
 [submodule "altdoc"]
 	path = altdoc
 	url = https://github.com/etiennebacher/altdoc
-	branch = *release
+	branch = v0.3.0
 [submodule "conductor"]
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
-	branch = *release
+	branch = v0.1.1
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
@@ -17,15 +17,15 @@
 [submodule "prompter"]
 	path = prompter
 	url = https://github.com/etiennebacher/prompter
-	branch = *release
+	branch = v1.1.0
 [submodule "shinyfullscreen"]
 	path = shinyfullscreen
 	url = https://github.com/etiennebacher/shinyfullscreen
-	branch = *release
+	branch = v1.1.0
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = *release
+	branch = v0.6.0
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/markvanderloo/tinytest
