@@ -1,6 +1,26 @@
 [
   {
+    "package": "tidypolars",
+    "releasetag": true
+  },
+  {
     "package": "polars",
+    "releasetag": true
+  },
+  {
+    "package": "altdoc",
+    "releasetag": true
+  },
+  {
+    "package": "conductor",
+    "releasetag": true
+  },
+  {
+    "package": "shinyfullscreen",
+    "releasetag": true
+  },
+  {
+    "package": "prompter",
     "releasetag": true
   }
 ]
