@@ -17,7 +17,7 @@
 [submodule "prompter"]
 	path = prompter
 	url = https://github.com/etiennebacher/prompter
-	branch = v1.1.0
+	branch = v1.2.0
 [submodule "shinyfullscreen"]
 	path = shinyfullscreen
 	url = https://github.com/etiennebacher/shinyfullscreen
