@@ -4,6 +4,10 @@
     "releasetag": true
   },
   {
+    "package": "loc",
+    "releasetag": true
+  },
+  {
     "package": "polars",
     "releasetag": true
   },

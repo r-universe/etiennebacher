@@ -10,6 +10,10 @@
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
 	branch = v0.1.1
+[submodule "loc"]
+	path = loc
+	url = https://github.com/etiennebacher/loc
+	branch = *release
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
