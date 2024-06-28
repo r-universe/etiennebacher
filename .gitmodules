@@ -9,7 +9,7 @@
 [submodule "astgrepr"]
 	path = astgrepr
 	url = https://github.com/etiennebacher/astgrepr
-	branch = *release
+	branch = v0.0.1
 [submodule "conductor"]
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
