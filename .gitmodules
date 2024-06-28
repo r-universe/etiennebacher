@@ -6,6 +6,10 @@
 	path = altdoc
 	url = https://github.com/etiennebacher/altdoc
 	branch = v0.3.0
+[submodule "astgrepr"]
+	path = astgrepr
+	url = https://github.com/etiennebacher/astgrepr
+	branch = *release
 [submodule "conductor"]
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
