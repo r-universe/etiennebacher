@@ -12,10 +12,6 @@
     "releasetag": true
   },
   {
-    "package": "astgrepr",
-    "releasetag": true
-  },
-  {
     "package": "polars",
     "releasetag": true
   },
