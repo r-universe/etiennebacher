@@ -36,7 +36,7 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = v0.9.0
+	branch = v0.10.0
 [submodule "tinytest"]
 	path = tinytest
 	url = https://github.com/markvanderloo/tinytest
