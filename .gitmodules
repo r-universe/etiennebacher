@@ -16,7 +16,7 @@
 [submodule "flint"]
 	path = flint
 	url = https://github.com/etiennebacher/flint
-	branch = v0.0.7
+	branch = v0.0.8
 [submodule "loc"]
 	path = loc
 	url = https://github.com/etiennebacher/loc
