@@ -36,9 +36,4 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = v0.10.1
-[submodule "tinytest"]
-	path = tinytest
-	url = https://github.com/markvanderloo/tinytest
-	subdir = pkg
-	registered = false
+	branch = v0.11.0

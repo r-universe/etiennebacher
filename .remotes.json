@@ -4,12 +4,5 @@
     "url": "https://github.com/etiennebacher/astgrepr",
     "via": ["flint"],
     "from": "flint"
-  },
-  {
-    "package": "tinytest",
-    "url": "https://github.com/markvanderloo/tinytest",
-    "via": ["tidypolars"],
-    "subdir": "pkg",
-    "from": "tidypolars"
   }
 ]
