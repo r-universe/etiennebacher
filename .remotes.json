@@ -4,5 +4,11 @@
     "url": "https://github.com/etiennebacher/astgrepr",
     "via": ["flint"],
     "from": "flint"
+  },
+  {
+    "package": "astgrepr",
+    "url": "https://github.com/etiennebacher/astgrepr",
+    "via": ["flir"],
+    "from": "flir"
   }
 ]
