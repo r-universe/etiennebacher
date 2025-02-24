@@ -13,10 +13,10 @@
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
 	branch = v0.1.1
-[submodule "flint"]
-	path = flint
-	url = https://github.com/etiennebacher/flint
-	branch = v0.2.1
+[submodule "flir"]
+	path = flir
+	url = https://github.com/etiennebacher/flir
+	branch = *release
 [submodule "loc"]
 	path = loc
 	url = https://github.com/etiennebacher/loc
