@@ -16,7 +16,7 @@
 [submodule "flir"]
 	path = flir
 	url = https://github.com/etiennebacher/flir
-	branch = v0.4.1
+	branch = v0.4.2
 [submodule "loc"]
 	path = loc
 	url = https://github.com/etiennebacher/loc
