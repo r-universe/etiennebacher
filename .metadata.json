@@ -16,10 +16,6 @@
     "releasetag": true
   },
   {
-    "package": "altdoc",
-    "releasetag": true
-  },
-  {
     "package": "conductor",
     "releasetag": true
   },
