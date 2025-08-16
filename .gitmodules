@@ -23,7 +23,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = v1.2.0
+	branch = v1.2.1
 [submodule "prompter"]
 	path = prompter
 	url = https://github.com/etiennebacher/prompter
