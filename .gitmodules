@@ -11,7 +11,7 @@
 [submodule "conductor"]
 	path = conductor
 	url = https://github.com/etiennebacher/conductor
-	branch = v0.1.1
+	branch = v0.1.2
 [submodule "flir"]
 	path = flir
 	url = https://github.com/etiennebacher/flir
