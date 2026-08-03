@@ -19,7 +19,7 @@
 [submodule "loc"]
 	path = loc
 	url = https://github.com/etiennebacher/loc
-	branch = v0.0.1
+	branch = v0.0.2
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
